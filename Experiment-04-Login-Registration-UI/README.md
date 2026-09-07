@@ -1,17 +1,73 @@
-# flutter_application_1
+# Login & Registration App - Flutter UI Design Lab
 
-A new Flutter project.
+## Student Details
 
-## Getting Started
+**Name:** Sai Mithun  
+**Course:** B.Tech CSE  
+**Year:** 3rd Year  
+**Subject:** UI Design using Flutter (CS506PC)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Project Description
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+This project is developed as part of the UI Design using Flutter Lab.
+The project demonstrates Dart programming, Flutter widgets and layouts,
+forms, validation, and a Login & Registration application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Experiments Progress
+
+| Experiment | Title | Status |
+|------------|-------|--------|
+| Experiment 01 | Dart Basics | Completed |
+| Experiment 02 | Widgets & Layouts | Completed |
+| Experiment 03 | Forms & Input Validation | Completed |
+| Experiment 04 | Login & Registration UI | Completed |
+| Experiment 05 | To be completed | Pending |
+| Experiment 06 | To be completed | Pending |
+| Experiment 07 | To be completed | Pending |
+| Experiment 08 | To be completed | Pending |
+| Experiment 09 | To be completed | Pending |
+| Experiment 10 | To be completed | Pending |
+
+---
+
+## Project Structure
+
+```text
+Login & Registration App
+│
+├── README.md
+│
+├── Experiment-01-Dart-Basics
+│   └── main.dart
+│
+├── Experiment-02-Widgets-Layouts
+│   ├── lib
+│   │   └── main.dart
+│   ├── android
+│   ├── ios
+│   ├── web
+│   └── pubspec.yaml
+│
+├── Experiment-03-Forms-Input
+│   ├── lib
+│   │   └── main.dart
+│   ├── android
+│   ├── ios
+│   ├── web
+│   └── pubspec.yaml
+│
+└── Experiment-04-Login-Registration-UI
+    ├── lib
+    │   ├── Screens
+    │   │   ├── login_screen.dart
+    │   │   ├── registration_screen.dart
+    │   │   └── dashboard_screen.dart
+    │   └── main.dart
+    ├── android
+    ├── ios
+    ├── web
+    └── pubspec.yaml
